@@ -5,7 +5,7 @@
 ⛳️ I am familiar with different framework and languages:
   - C# and .NET 5.0
   - Typescript, Javascript, CSS, HTML5 and Angular
-  - Swift and UIKit
+  - Swift, UIKit and SwiftUI
   - Python
 
 💡 I'm currently enrolled in [THREE.js journey](https://threejs-journey.xyz) 🌳, a wonderful course on the famous WebGL library.
