@@ -1,12 +1,14 @@
 ### Hi there, I am Stefano 👋 
 
-🎓 I'm a Front End Developer currently working for a company based in Bologna 🇮🇹 and I graduated in March 2021 in Computer Science with a thesis on tomographic image enhancement using neural networks (available soon).
+🎓 I'm a Front End Developer currently working for a company based in Bologna 🇮🇹 and I graduated in March 2021 in Computer Science with a thesis on tomographic image enhancement using neural networks (get the paper [here](https://amslaurea.unibo.it/id/eprint/22843)).
 
 ⛳️ I am familiar with different framework and languages:
   - C# and .NET 5.0
   - Typescript, Javascript, CSS, HTML5 and Angular
   - Swift and UIKit
   - Python
+
+💡 I'm currently enrolled in [THREE.js journey](https://threejs-journey.xyz) 🌳, a wonderful course on the famous WebGL library.
 
 💻 I am very interested in the Swift programming language and all the  Apple ecosystem. I would love to be involved in graphics programming and work in a cutting-edge enviroment, so feel free to drop a message if I look like a good candidate for both of these contexts.
 
