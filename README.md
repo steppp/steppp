@@ -12,7 +12,7 @@
 
 💻 I am very interested in the Swift programming language and all the  Apple ecosystem. I would love to be involved in graphics programming and work in a cutting-edge enviroment, so feel free to drop a message if I look like a good candidate for both of these contexts.
 
-🔀 I am a big fan of functional programming concepts in languages and I like clean, well-strutured code. I consider myself a quite good programmer (modesty, huh?) and in general I always managed to solve every problem I faced.
+🔀 I am a big fan of functional programming concepts in languages and I like clean, well-strutured code. In general I always managed to solve every problem I faced and I am familiar with most programming concepts so adopting a new technology/framework usually do not take long to me.
 
 That's it for now, have a nice day!⭐️
 
