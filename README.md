@@ -9,9 +9,11 @@
   - Swift, UIKit and SwiftUI
   - Python
 
-💡 I'm currently enrolled in [THREE.js journey](https://threejs-journey.xyz) 🌳, a wonderful course on the famous WebGL library.
+🌴 I've attended [THREE.js journey](https://threejs-journey.xyz), a wonderful course on the famous WebGL library.
 
-💻 I am very interested in the Swift programming language and all the  Apple ecosystem. I would love to be involved in graphics programming and work in a cutting-edge enviroment, so feel free to drop a message if I look like a good candidate for both of these contexts.
+📚 I'm currently experimenting with shaders reading the awesome [book of shaders](https://thebookofshaders.com).
+
+💻 I am very interested in the Swift programming language and all the  Apple ecosystem. I would love to be involved in graphics programming and work in a cutting-edge enviroment, so feel free to drop a message if I look like a good candidate for either of these contexts.
 
 🔀 I am a big fan of functional programming concepts in languages and I like clean, well-strutured code. In general I always managed to solve every problem I faced and I am familiar with most programming concepts so adopting a new technology/framework usually do not take long to me.
 
