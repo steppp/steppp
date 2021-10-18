@@ -11,7 +11,7 @@
 
 🌴 I've attended [THREE.js journey](https://threejs-journey.xyz), a wonderful course on the famous WebGL library.
 
-📚 I'm currently experimenting with shaders reading the awesome [book of shaders](https://thebookofshaders.com).
+📚 I'm currently experimenting with shaders reading the awesome [book of shaders](https://thebookofshaders.com) and rebuilding my personal website (you can find the repo [here](https://github.com/steppp/site-webgl-rework)).
 
 💻 I am very interested in the Swift programming language and all the  Apple ecosystem. I would love to be involved in graphics programming and work in a cutting-edge enviroment, so feel free to drop a message if I look like a good candidate for either of these contexts.
 
