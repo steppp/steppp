@@ -1,10 +1,11 @@
 ### Hi there, I am Stefano 👋 
 
-🎓 I'm a Front End Developer currently working for a company based in Bologna 🇮🇹 and I graduated in March 2021 in Computer Science with a thesis on tomographic image enhancement using neural networks (get the paper [here](https://amslaurea.unibo.it/id/eprint/22843)).
+🎓 I'm a Front End Developer currently working for [Caffeina | Ideas Never Sleep ⚡️](https://caffeina.com) and I graduated in March 2021 in Computer Science with a thesis on tomographic image enhancement using neural networks (get the paper [here](https://amslaurea.unibo.it/id/eprint/22843)).
 
 ⛳️ I am familiar with different framework and languages:
-  - C# and .NET 5.0
-  - Typescript, Javascript, CSS, HTML5 and Angular
+  - C# and .NET 5.0+
+  - Typescript, Javascript, CSS, HTML5
+  - Angular 2+, React.js and Next.js
   - WebGL and THREE.js
   - Swift, UIKit and SwiftUI
   - Python
