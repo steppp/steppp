@@ -1,6 +1,6 @@
 ### Hi there, I am Stefano 👋 
 
-🎓 I'm a Front End Developer currently working for [Caffeina | Ideas Never Sleep ⚡️](https://caffeina.com) and I graduated in March 2021 in Computer Science with a thesis on tomographic image enhancement using neural networks (get the paper [here](https://amslaurea.unibo.it/id/eprint/22843)).
+🎓 I'm a Web Developer currently freelancing and I graduated in March 2021 in Computer Science with a thesis on tomographic image enhancement using neural networks (get the paper [here](https://amslaurea.unibo.it/id/eprint/22843)). I'm now enrolled in a AI Master's Degree @ University of Bologna.
 
 ⛳️ I am familiar with different framework and languages:
   - C# and .NET 5.0+
